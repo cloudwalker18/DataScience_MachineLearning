@@ -1,7 +1,7 @@
 # Data was obtained from https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 Objectives of project: 
-1. Explore the data
-2. Credit Scoring and Risk Assessment/Management
-3. Time Series Analysis
-4. Anomaly detection
+1. Preprocess data for machine learning
+2. Train a ML model to predict customers who are more likely to default on loans
+3. Evaluate model performance
+4. Try to understand the key predictors of default
