@@ -1,4 +1,4 @@
-# DataScience_MachineLearning
+# DataScience_PersonalProjects
 
-Personal Data Science projects where I will explore, deep dive and test my abilities on the world of Machine Learning. 
+Personal Data Science projects where I will explore, deep dive and test my abilities in the world of Machine Learning and more. 
 
